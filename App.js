@@ -35,7 +35,7 @@ function App() {
         fontSize: '22px',
         fontWeight: 'bold'
       }}>
-        📚 Library Management System - azure vm 
+        📚 Library Management System 
       </div>
 
       {view === 'list' ? (
